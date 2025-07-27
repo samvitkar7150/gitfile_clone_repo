@@ -1,0 +1,2 @@
+we can add file from local to central in cloning folder
+
